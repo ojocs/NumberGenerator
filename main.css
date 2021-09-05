@@ -1,0 +1,17 @@
+*{
+    margin: 0; /*Removes margin*/
+}
+
+h1, .random, p2{
+    padding: 2%;
+    text-align: center;
+}
+
+.random {
+    size: 200%;
+    text-size-adjust: 110%;
+}
+
+p2{
+    font-style: italic;
+}
